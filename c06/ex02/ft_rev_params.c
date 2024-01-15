@@ -17,7 +17,7 @@ int	main(int ac, char **av)
 	int	i;
 	int	j;
 
-	j = ac 1;
+	j = ac - 1;
 	while (j > 0)
 	{
 		i = 0;
